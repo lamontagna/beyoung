@@ -4,7 +4,7 @@
 
 ## - Tutorial Para o funcionamento da API REST Pedidos -
 
-### REPOSITÓTIO GITHUB: 
+### REPOSITÓTIO GITHUB: https://github.com/lamontagna/beyoung
 
 ### Pré-Requisitos:
 
